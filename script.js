@@ -19,7 +19,7 @@ async function buscar() {
       body: JSON.stringify({
         contents: [{
           parts: [{
-            text: `You are a Linux terminal expert specialized in Arch Linux.
+            text: `You are now on the terminal.
 The user will type a term or question in any language.
 Reply ONLY in this exact format, nothing else:
 
