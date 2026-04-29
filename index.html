@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LInDex</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>LInDex</h1>
+    <p class="guia">Type a term or command and press Search. Ex: <code>update system</code></p>
+
+    <div class="busca">
+      <input type="text" id="input" placeholder="Ex: install package, hypr config...">
+      <button onclick="buscar()">Search</button>
+    </div>
+
+    <div id="output">
+      <p class="output-comando"></p>
+      <p class="output-descricao"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
