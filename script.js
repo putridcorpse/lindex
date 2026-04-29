@@ -1,4 +1,4 @@
-const API_KEY = "SUA_API_KEY_AQUI"
+const API_KEY = "api"
 
 async function buscar() {
   const input = document.getElementById("input").value.trim()
