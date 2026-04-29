@@ -19,7 +19,7 @@ Type a term or question and get the exact terminal command you need — instantl
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/seuusuario/lindex.git
+   git clone https://github.com/putridcorpse/lindex.git
    cd lindex
 ```
 
@@ -36,6 +36,10 @@ Type a term or question and get the exact terminal command you need — instantl
 
 - HTML, CSS, JavaScript
 - Gemini 2.0 Flash API
+
+## Author
+
+Made by [putridcorpse](https://github.com/putridcorpse)
 
 ## License
 
